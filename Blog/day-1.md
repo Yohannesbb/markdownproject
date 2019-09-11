@@ -4,10 +4,10 @@ would like to learn more about markdown syntax
 2. study the sytax and memorize as much as possible
 3. apply some of them on your project
 
-|    |    |    |    
-|----|----|----|
-|    |    |    |    
-|    |    |    |
-|    |    |    |    
-|    |    |    |
+| Yohannes  |  Berhane   |  Bahta  |    
+| --- | ---- | ---- |
+|Child | Father | Grandfather    |    
+| Given name   | Middle Name    | Last Name   |
+|First Name    | Second Name   |  Surname  |    
+| Son  |  dad   | pop   |
  
