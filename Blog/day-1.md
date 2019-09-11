@@ -11,3 +11,11 @@ would like to learn more about markdown syntax
 |First Name    | Second Name   |  Surname  |    
 | Son  |  dad   | pops   |
  
+``` that is a test block ```
+
+Another sytax example is the ~~strike~~ . This should be enough for today, until I change it.
+More  
+* task list to come
+* ordered and unordere
+  * with numbers
+  * without numbers
