@@ -9,5 +9,5 @@ would like to learn more about markdown syntax
 |Child | Father | Grandfather    |    
 | Given name   | Middle Name    | Last Name   |
 |First Name    | Second Name   |  Surname  |    
-| Son  |  dad   | pop   |
+| Son  |  dad   | pops   |
  
