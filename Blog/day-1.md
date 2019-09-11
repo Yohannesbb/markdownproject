@@ -19,6 +19,6 @@ More
 * ordered and unordere
   * with numbers
   * without numbers
-  1. [] check box
-  2. [] check box2
+  1. [ ] check box
+  2. [ ] check box2
   3. [X] checked box
