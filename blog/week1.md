@@ -37,13 +37,12 @@ All the above topics were covered during the last session of the class.  There i
 When developing on your own, you have total control on what goes into your project and how it is written. The code for your project only has to make sense to you! However, as soon as you have another person look at your code, you have make sure your code makes sense to others too. If your code is not understandable to other developers, then they won’t be able to make good comments and help you out, and they also won’t want to add your code to their project. Viewed this way, code is a language that everybody needs to understand in order to work together. Just like any other language, we have some common practice that help us understand each other. For instance, when developing HTML, we want to make sure any tags that open are also closed
 
 **BELOW IS ALSO SOME OF THE EXERCISES I PERSONALLY COMPLETED**
-## My question about working on CSS with regards to markdown was answered well
-would like to learn more about markdown syntax
+**My Desire** is to learn more about markdown syntax
 1. read about markdown
 2. study the sytax and memorize as much as possible
 3. apply some of them on your project
 
-| JOHN |  DEE  |  DEO |    
+| **JOHN** | ~DEE~  |  *DEO* |    
 | --- | ---- | ---- |
 |Child | Father | Grandfather    |    
 | Given name   | Middle Name    | Last Name   |
