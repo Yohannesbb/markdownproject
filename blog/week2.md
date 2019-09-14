@@ -17,3 +17,12 @@ HTML5 tag for the content.
  It's best to avoid excessive use of generic tags, such as <div>, 
  
  when there could be a more descriptive tag for the job such as <section>, <article>, and so on.
+ 
+ <span> </span>
+ 
+ 
+* For my Index Page Click [My Index Page](./index.md)
+* For Week1 Click [Week1 Class](./week1.md)
+* For Week2 Cleck [You are on week2](./week2.md), and 
+* For the [Next Class](./week3.md) Coming Soon.
+ 
