@@ -1,6 +1,5 @@
-# Indexing this Blog
-# This is the correct index file for this class
-More links to follow
+# Markdown Class Blog
+# This is a Markdown Class and the beginning of a Blog
 
-This will link the **day1-md** markdown file to an **index dot html** as below.
-[This is lesson week-1](./week1.md)
+Week one was an introduction to Markdown. Every Week there is going to be a new link.
+The First Link it [A lesson for week1](./week1.md)
