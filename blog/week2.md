@@ -7,8 +7,8 @@
  
  **It is confusing**
  
-  ```8. Use meaningful tags
-Each section of your web page should be built using the most appropriate HTML5 tag for the content. 
+ [8. Use meaningful tags]
+```Each section of your web page should be built using the most appropriate HTML5 tag for the content. 
  
 It's best to avoid excessive use of generic tags, such as <div>, 
  
