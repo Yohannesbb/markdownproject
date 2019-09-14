@@ -28,7 +28,7 @@ People who are incline to any type of art make money and develop thier skills by
 * What is markdown good for
 * When is it preferable to use HTML instead of Markdown or viceversa
 
-All the above topics were covered during the last session of the class.  There is additional assignment.  For the next class assignment please go back to [My Index Page](./index.html) and click on [Week2 Lessons](./week2.html)
+All the above topics were covered during the last session of the class.  There is additional assignment.  For the next class assignment please go back to [My Index Page](./index.md) and click on [Week2 Lessons](./week2.md)
 
 ### The Tutors forgot to get dinner!! :(
 
