@@ -9,7 +9,8 @@
  
  [8. Use meaningful tags](https://blog.tbhcreative.com/2015/08/10-best-practices-in-html.html)
  
-```Each section of your web page should be built using the most appropriate 
+```
+Each section of your web page should be built using the most appropriate 
 
 HTML5 tag for the content. 
  
