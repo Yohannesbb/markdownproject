@@ -10,13 +10,13 @@
  [8. Use meaningful tags](https://blog.tbhcreative.com/2015/08/10-best-practices-in-html.html)
  
 ```
->Each section of your web page should be built using the most appropriate 
+> Each section of your web page should be built using the most appropriate 
 
->HTML5 tag for the content. 
+> HTML5 tag for the content. 
  
-  >>It's best to avoid excessive use of generic tags, such as <div>, 
+  >> It's best to avoid excessive use of generic tags, such as <div>, 
  
-  >>when there could be a more descriptive tag for the job such as <section>, <article>, and so on```
+  >> when there could be a more descriptive tag for the job such as <section>, <article>, and so on```
  
  <span> </span>
  
