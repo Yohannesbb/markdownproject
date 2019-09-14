@@ -3,4 +3,4 @@
 More links to follow
 
 This will link the **day1-md** markdown file to an **index dot html** as below.
-[This is lesson week-1](./lesson.md)
+[This is lesson week-1](./week1.md)
