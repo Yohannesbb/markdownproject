@@ -23,5 +23,5 @@ when there could be a more descriptive tag for the job such as <section>, <artic
 * For my Index Page Click [My Index Page](./index.md)
 * For Week1 Click [Week1 Class](./week1.md)
 * For Week2 Cleck [You are on week2](./week2.md), and 
-* For the [Next Class](./week3.md) Coming Soon.
+* For the [Next Class](./week3.md) COMING SOON.
  
