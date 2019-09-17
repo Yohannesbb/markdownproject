@@ -1,6 +1,10 @@
 <center>
  ![Butterfly](./blog/IMG_5905.JPG)
  </center>
+ library(png)
+ library(grid)
+ image <- readPNG(kan.png)
+ grid.raster(img)
  
 # Markdown Class Blog
 ## This is a Markdown Class and the beginning of a Blog
