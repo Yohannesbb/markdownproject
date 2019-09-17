@@ -1,9 +1,5 @@
 <p align= "center">
- <b> Some Links : </b>
- <a href= #> Link 1 </a>
- <a href= #> Link 2 </a>
- <a href= #> Link 3 </a>
- <a href= #> Link 4 </a>
+
  <br><br>
  </p>
 <pre><span style="display:block; background-color:white"><code>## Constructed an OTU  table and other variables with the following settings:
