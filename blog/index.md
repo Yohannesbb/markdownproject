@@ -1,7 +1,4 @@
-<p align= "center">
 
- <br><br>
- </p>
 <pre><span style="display:block; background-color:white"><code>## Constructed an OTU  table and other variables with the following settings:
 ## thresh_prevalence: 80
 ## thresh_abundance: 0.5
