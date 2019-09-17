@@ -1,5 +1,5 @@
 <center>
- ![Butterfly](./IMG_5905.JPG)
+ ![Butterfly](./blog/IMG_5905.JPG)
  </center>
  
 # Markdown Class Blog
