@@ -1,3 +1,12 @@
+<p align= "center">
+ <b> Some Links : </b>
+ <a href= #> Link 1 </a>
+ <a href= #> Link 2 </a>
+ <a href= #> Link 3 </a>
+ <a href= #> Link 4 </a>
+ <br><br>
+ <img src= "https://en.wikipedia.org/wiki/Butterfly>
+ </p>
 # Markdown Class Blog
 ## This is a Markdown Class and the beginning of a Blog
 
