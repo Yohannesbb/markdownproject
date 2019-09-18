@@ -1,3 +1,5 @@
+@width: 10px;
+@height: @width + 10px;
 # Markdown Class Blog
 ## This is a Markdown Class and the beginning of a Blog
 
