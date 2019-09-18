@@ -1,11 +1,5 @@
 <center>
- ![Butterfly](./blog/IMG_5905.JPG)
- </center>
- library(png)
- library(grid)
- image <- readPNG(kan.png)
- grid.raster(img)
- 
+
 # Markdown Class Blog
 ## This is a Markdown Class and the beginning of a Blog
 
@@ -16,3 +10,4 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 * For Week2 Cleck [Week2 Class](./week2.md), and 
 * For the [Next Class](./week3.md) Coming Soon.
  
+</center>
