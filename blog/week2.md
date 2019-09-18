@@ -24,7 +24,7 @@ It's best to avoid excessive use of generic tags, such as <div>,
  
 when there could be a more descriptive tag for the job such as <section>, <article>, and so on.
  ```
-**BEM** stands for **Block Element Modifier**. The engineer explaned very beautifuly.  When I saw the stick-man,  it reminded me of [GOT YOUR BACK MEME](https://imgflip.com/i/1dee61)
+**BEM** stands for **Block Element Modifier**. The engineer explaned very beautifuly.  When I saw the stick-man,  it reminded me of [GOT YOUR BACK MEME.](https://imgflip.com/i/1dee61) 
 Eventhough different people would have different approaches in regards to styling, the **BEM** seems easy to understand. Also, it definily differed from the type of class names I have been using.
 
 **DESIGN AND LAYOUT** 
