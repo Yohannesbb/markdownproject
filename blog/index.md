@@ -8,6 +8,7 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 * For Week2 Cleck [Week2 Class](./week2.md), and 
 * For the [Next Class](./week3.md) Coming Soon.
 * For Week1 Click [html Class](./home.html)
+<center>
 <img src="img/inclusion.jpg" width="760" aligh = "middle">
- 
+ </center>
 ![](img/inclusion.jpg)
