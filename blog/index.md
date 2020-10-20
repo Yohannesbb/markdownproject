@@ -11,4 +11,4 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 
 <img src="img/inclusion.jpg" width="760">
 
-![](img/Bergen.jpg)
+![](img/lake_lanier.JPG)
