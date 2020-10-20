@@ -9,4 +9,4 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 * For the [Next Class](./week3.md) Coming Soon.
 * For Week1 Click [html Class](./home.html)
  
-
+![](img/inclusion.jpg)
