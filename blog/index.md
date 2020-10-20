@@ -9,6 +9,6 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 * For the [Next Class](./week3.md) Coming Soon.
 
 
-<img src="img/inclusion.jpg" width="760" padding = "100">
+<img src="img/inclusion.jpg" width="760">
 
-![](img/inclusion.jpg)
+![](img/Bergen.jpg)
