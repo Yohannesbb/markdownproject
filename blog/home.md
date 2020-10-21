@@ -12,7 +12,7 @@
 </nav>
 <div class="parallax"></div>
 
-<div style="height:10000px;background-color:#fabe32;font-size:36px">
+<div style="height:10000px;background-color:#29251c;font-size:14px">
 <p color = "black"> This is the start of a new page in markdown</p>
 </div>
 
