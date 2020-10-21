@@ -5,7 +5,7 @@
 </head>
 <body>
 <nav>
-<a href="/html/">Home</a> |
+<a href="/.index.md/">Home</a> |
 <a href="/css/">about me</a> |
 <a href="/js/">Datasets ressources</a> |
 <a href="/python/">Learning Links</a>
