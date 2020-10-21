@@ -5,7 +5,7 @@
 </head>
 <body>
 <nav background-color = "grey">
-<a href="/markdownproject/blog/index.md /">Home</a> |
+<a href="blog/index.md">Home</a> |
 <a href="/css/">about me</a> |
 <a href="/js/">Datasets ressources</a> |
 <a href="/python/">Learning Links</a>
