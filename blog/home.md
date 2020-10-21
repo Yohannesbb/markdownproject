@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<nav>
+<nav background-color = "grey">
 <a href="/index.md/">Home</a> |
 <a href="/css/">about me</a> |
 <a href="/js/">Datasets ressources</a> |
