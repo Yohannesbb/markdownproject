@@ -7,7 +7,7 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 * For Week1 Click [Week1 Class](./week1.md)
 * For Week2 Cleck [Week2 Class](./week2.md) 
 * For the [Next Class](./week3.md) and
-* For the [Home page](./home.md) Coming Soon.
+
 
 
 <img src="img/inclusion.jpg" width="760">
