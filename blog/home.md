@@ -6,7 +6,7 @@
 <body>
 <nav background-color = "grey">
 <a href="index.md">Home</a> |
-<a href="week1.md">about me</a> |
+<a href="[Week1 Class](./week1.md)">about me</a> |
 <a href="week2.md">Datasets ressources</a> |
 <a href="week3.md">Learning Links</a>
 </nav>
