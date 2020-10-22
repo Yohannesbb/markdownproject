@@ -12,7 +12,7 @@ Week one was an introduction to Markdown. Every Week there is going to be a new 
 
 <img src="img/inclusion.jpg" width="760">
 
-The above paint on the wall is a mural in downtown Clarkston, GA. The trucnk of the tree is covered with a very powerful words such us: Inclusive, togethernes, tolerance etc. I invite you to find more words.
+The above paint on the wall is a mural in downtown Clarkston, GA. The trucnk of the tree is covered with a very powerful words such us: Inclusion, togethernes, tolerance etc. I invite you to find more words.
 
 
 <img src="img/sat_arc.JPG" width="760">
